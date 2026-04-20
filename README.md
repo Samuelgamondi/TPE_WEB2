@@ -1,5 +1,5 @@
 # TPE_WEB2
-Integrante
+Integrante:
   Samuel Gamondi
   Samuelgamondi01@gmail.com
 
